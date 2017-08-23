@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-index",
+      "appliesTo": "09week/customer-satisfaction/index.html",
+      "type": "launch"
+    }
+  ]
+}
